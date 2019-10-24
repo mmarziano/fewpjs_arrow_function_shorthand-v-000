@@ -1,2 +1,4 @@
-let divide = (a, b) => a / b 
+let divide = function(a, b) {
+  return  a / b 
+}
 
