@@ -1,6 +1,2 @@
-let divide = function(a, b) {
-  return  a / b 
-}
-
-divide(2000, 100)
+let divide = (2000, 100) => 2000/100
 
